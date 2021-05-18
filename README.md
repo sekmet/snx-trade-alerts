@@ -1,4 +1,6 @@
-# Synthetix Trades Twitter Bot
+# Synthetix Trades Twitter 🤖 Bot
+
+#### Live Bot Account - https://twitter.com/trades_bot
 
 `Build a Twitter bot that tweets when a Synthetix Protocol trade occurs over a certain value threshold.`
 
